@@ -6,6 +6,7 @@ This project addresses the problem of waste management by using AI to automate t
 
 Dataset
 The dataset used for training consists of images across 12 categories, which include:
+
 Battery
 Biological
 Brown Glass
